@@ -41,4 +41,5 @@ Pattern-Recognition/
 ├── Assignment_01_linear_Classifier/
 │   ├── Code/
 │   └── README.md
+│
 └── README.md   (main course README)
