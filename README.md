@@ -33,21 +33,12 @@ This repository is intended for academic, learning, and portfolio purposes.
 ```text
 Pattern-Recognition/
 │
-├── Assignment01_linear_Classifier/
+├── Assignment_01_linear_Classifier/
 │   ├── Code/
 │   ├── Question/
 │   └── README.md
 │
-├── Multiple_linear_regression/
-│   ├── Code/
-│   └── README.md
-│
-├── Exercise/
-│   ├── Code/
-│   ├── DATA/
-│   └── README.md
-│
-├── Regression-Analysis-With-Inference/
+├── Assignment_01_linear_Classifier/
 │   ├── Code/
 │   └── README.md
 └── README.md   (main course README)
