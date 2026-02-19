@@ -38,7 +38,7 @@ Pattern-Recognition/
 │   ├── Question/
 │   └── README.md
 │
-├── Assignment_01_linear_Classifier/
+├── Assignment_02_linear_Classifier/
 │   ├── Code/
 │   └── README.md
 │
