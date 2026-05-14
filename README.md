@@ -27,6 +27,7 @@ Each assignment is organized into its own folder with clear separation of:
 - NumPy
 - Matplotlib
 - scikit-learn
+- seaborn
 
 This repository is intended for academic, learning, and portfolio purposes.
 
