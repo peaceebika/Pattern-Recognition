@@ -1,6 +1,6 @@
 # Pattern Recognition
 
-This repository contains coursework, homework, practices, and experiments completed as part of a **Pattern Recognition** Course.
+This repository contains coursework,Assignment, homework, practices, and experiments completed as part of a **Pattern Recognition** Course.
 
 The focus of this repository is on the theoretical understanding and practical implementation of pattern recognition and machine learning algorithms, including:
 
