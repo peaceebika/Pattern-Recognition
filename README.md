@@ -11,6 +11,7 @@ The focus of this repository is on the theoretical understanding and practical i
 - Statistical pattern recognition
 - Model evaluation and comparison
 
+
 Each assignment is organized into its own folder with clear separation of:
 - problem statements
 - implementation code
@@ -23,12 +24,13 @@ Each assignment is organized into its own folder with clear separation of:
 - Synthetic and real datasets are used depending on the assignment.
 
 ## Tools & Libraries
+```
 - Python
 - NumPy
 - Matplotlib
 - scikit-learn
 - seaborn
-
+```
 This repository is intended for academic, learning, and portfolio purposes.
 
 ```text
