@@ -1,4 +1,4 @@
-# Assignment 02 – Nonlinear Classifiers
+# Nonlinear Classifiers
 
 This assignment will cover nonlinear classification techniques.
 
