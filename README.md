@@ -20,7 +20,7 @@ Each assignment is organized into its own folder with clear separation of:
 
 ## Repository Structure
 - Each `Assignment` folder corresponds to a specific coursework assignment.
-- Code is primarily written in **Python** and executed using **Google Colab**.
+- Code is primarily written in `**Python**` and executed using `**Google Colab**`.
 - Synthetic and real datasets are used depending on the assignment.
 
 ## Tools & Libraries
