@@ -2,7 +2,7 @@
 
 This repository contains coursework, homework, practices, and experiments completed as part of a **Pattern Recognition Course**.
 
-The focus of this repository is on the theoretical understanding and practical implementation of pattern recognition and machine learning algorithms, including:
+The focus of this repository is on the theoretical understanding and practical implementation of pattern recognition and machine learning algorithms,Deep Learning including:
 
 - Linear classifiers
 - Perceptron learning
@@ -10,6 +10,7 @@ The focus of this repository is on the theoretical understanding and practical i
 - Support Vector Machines (SVM)
 - Statistical pattern recognition
 - Model evaluation and comparison
+- CNN, RNN etc.
 
 
 Each assignment is organized into its own folder with clear separation of:
