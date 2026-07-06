@@ -10,7 +10,7 @@ The focus of this repository is on the theoretical understanding and practical i
 - Support Vector Machines (SVM)
 - Statistical pattern recognition
 - Model evaluation and comparison
-- CNN, RNN, ANN etc.
+- CNN, RNN, ANN, GAN etc.
 
 
 Each assignment is organized into its own folder with clear separation of:
