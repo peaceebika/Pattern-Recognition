@@ -1,4 +1,4 @@
 # Nonlinear Classifiers
 
-This assignment will cover nonlinear classification techniques.
+This assignment/Work will cover nonlinear classification techniques.
 
