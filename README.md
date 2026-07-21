@@ -7,7 +7,7 @@ The focus of this repository is on the theoretical understanding and practical i
 - Linear classifiers
 - Perceptron learning
 - Least Squares classification
-- Support Vector Machines (SVM)
+- Support Vector Machines 
 - Statistical pattern recognition
 - Model evaluation and comparison
 - CNN, RNN, ANN, GAN, GNN, LSTM etc.
