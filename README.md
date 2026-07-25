@@ -48,6 +48,6 @@ Pattern-Recognition/
 │
 │
 ├── Project
-│
+│  ├── Code/
 │
 └── README.md   (main course README)
