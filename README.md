@@ -1,4 +1,4 @@
-# Pattern Recognition  Course
+# Pattern Recognitio
 
 This repository contains coursework, homework, practices, and experiments completed as part of a **Pattern Recognition Course**.
 
