@@ -31,6 +31,7 @@ Each assignment is organized into its own folder with clear separation of:
 - Matplotlib
 - scikit-learn
 - seaborn
+- Google Colab
 ```
 This repository is intended for academic, learning, and portfolio purposes.
 
