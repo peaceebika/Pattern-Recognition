@@ -1,4 +1,4 @@
-# Pattern Recognition
+# 🗺️ Pattern Recognition
 
 This repository contains coursework, homework, practices, and experiments completed as part of a **Pattern Recognition Course**.
 
