@@ -54,4 +54,4 @@ Pattern-Recognition/
 │
 │
 │
-└── README.md   (main course README)
+└── README.md   (main course)
