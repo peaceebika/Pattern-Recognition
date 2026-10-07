@@ -33,8 +33,7 @@ Each assignment is organized into its own folder with clear separation of:
 - seaborn
 - Google Colab
 ```
-This repository is intended for academic, learning, and portfolio purposes.
-
+This repository is intended for academic, learning, and portfolio purposes
 ```text
 Pattern-Recognition/
 │
